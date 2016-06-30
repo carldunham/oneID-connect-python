@@ -5,6 +5,7 @@ PyYAML~=3.11
 python-dateutil~=2.4.2
 pytz~=2015.7
 six~=1.10.0
+boto3~=1.3.1
 
 # for development/testing
 flake8>=2.5.4
@@ -14,5 +15,6 @@ sure>=1.2.24
 mock>=1.3.0
 coverage>=4.0.3
 cov-core>=1.15.0
+moto>=0.4.25
 
 # additional requirements in benchmark/requirements.txt
